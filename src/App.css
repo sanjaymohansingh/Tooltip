@@ -1,0 +1,118 @@
+/*Navbar...*/
+
+.btn-position {
+  margin-left: 10%;
+  width: 80%;
+  margin-left: none;
+  height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.grp-name {
+  margin-top: 20px;
+  font-style: Cursive;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+/*styling  of the all avilable button....*/
+
+.btn {
+  color: white;
+  height: 10%;
+  padding: 10px 0px 10px 0px;
+  width: 10%;
+  border: none;
+  border-radius: 10px;
+  background: blueviolet;
+}
+
+/*styling of the hover button container.*/
+
+#button-container {
+  width: 20%;
+  height: 15%;
+  margin-top: 15%;
+  margin-left: 40%;
+}
+
+.hover-btn {
+  height: 100%;
+  width: 100%;
+  font-size: 2rem;
+  background-color: blue;
+  text-decoration: none;
+}
+
+/*styling for the top position hover...*/
+
+.top {
+  color: white;
+  height: 30%;
+  width: 50%;
+  margin-top: -57%;
+  margin-left: 20%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: green;
+  position: sticky;
+}
+
+/*styling for the right position hover...*/
+
+.right {
+  color: white;
+  height: 30%;
+  width: 50%;
+  margin-top: -24%;
+  margin-left: 110%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: green;
+}
+
+/*styling for the down position hover...*/
+
+.down {
+  color: white;
+  height: 30%;
+  width: 50%;
+  margin-top: 10%;
+  margin-left: 20%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: green;
+}
+
+/*styling for the left position hover...*/
+
+.left {
+  color: white;
+  height: 30%;
+  width: 50%;
+  margin-top: -23%;
+  margin-left: -68%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: green;
+}
+
+/*styling for the active  button ...*/
+
+.active {
+  background-color: green;
+  color: white;
+}
+
