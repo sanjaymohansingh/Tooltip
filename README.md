@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-# Output ![tooltipoutput][Uploading Screenshot 2023-08-29 035334.png…]
+# Output ![tooltipoutput][Screenshot 2023-08-29 035334](https://github.com/sanjaymohansingh/Tooltip/assets/115239492/50079d0b-60bf-48af-acb7-94ff4f780ccc)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
